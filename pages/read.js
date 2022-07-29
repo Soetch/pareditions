@@ -1,5 +1,10 @@
 /* eslint-disable react/no-unknown-property */
 import Link from 'next/link'
+import Card from '../components/Card/Card'
+import CardButton from '../components/Card/CardButton'
+import CardSectionTwo from '../components/Card/CardSectionTwo'
+import CardText from '../components/Card/CardText'
+import CardTitle from '../components/Card/CardTitle'
 
 export default function Home() {
   return (
@@ -36,8 +41,37 @@ export default function Home() {
         </nav>
         <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
             <h1 className="text-6xl font-bold mt-0 mb-6">Read</h1>
-            <h3 className="text-3xl font-bold mb-8">Subeading</h3>
         </div>
+        <CardSectionTwo>
+            <Card>
+                <CardTitle>Title</CardTitle>
+                <CardText>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </CardText>
+                <CardButton href="/"/>
+            </Card>
+            <Card>
+                <CardTitle>Title</CardTitle>
+                <CardText>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </CardText>
+                <CardButton href="/"/>
+            </Card>
+            <Card>
+                <CardTitle>Title</CardTitle>
+                <CardText>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </CardText>
+                <CardButton href="/"/>
+            </Card>
+            <Card>
+                <CardTitle>Title</CardTitle>
+                <CardText>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </CardText>
+                <CardButton href="/"/>
+            </Card>
+        </CardSectionTwo>
       </header>
     </div>
   )

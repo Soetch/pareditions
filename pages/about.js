@@ -1,5 +1,8 @@
 /* eslint-disable react/no-unknown-property */
 import Link from 'next/link'
+import CardSectionOne from '../components/Card/CardSectionOne'
+import CardTwo from '../components/Card/CardTwo'
+import CardButton from '../components/Card/CardButton'
 
 export default function Home() {
   return (
@@ -37,8 +40,12 @@ export default function Home() {
       </header>
         <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
             <h1 className="text-6xl font-bold mt-0 mb-6">About</h1>
-            <h3 className="text-3xl font-bold mb-8">Subeading</h3>
         </div>
+        <CardSectionOne>
+            <CardTwo>
+
+            </CardTwo>
+        </CardSectionOne>
     </div>
   )
 }
