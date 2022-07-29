@@ -8,9 +8,9 @@ export default function Home() {
         <nav className="navbar navbar-expand-lg shadow-md py-2 bg-white relative flex items-center w-full justify-between">
           <div className="px-6 w-full flex flex-wrap items-center justify-between">
             <div className="items-center">
-              <Link href="/">
-                  <a className='font-bold text-xl'>TextFolio</a>
-              </Link>
+                <Link href="/">
+                    <a className='font-bold text-xl'>TextFolio</a>
+                </Link>
             </div>
             <div className='items-center grid gap-5 grid-cols-2'>
               <Link href="/read">
@@ -34,20 +34,11 @@ export default function Home() {
             </div>
           </div>
         </nav>
-        <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
-          <h1 className="text-6xl font-bold mt-0 mb-6">Heading</h1>
-          <h3 className="text-3xl font-bold mb-8">Subeading</h3>
-          <Link href="/read">
-            <button>
-              <div className='border-box bg-blue-600 h-10 w-20 rounded-xl flex items-center justify-center'>
-                <a className='font-bold text-white sticky'>
-                  Read
-                </a>
-              </div>
-            </button>
-          </Link>
-        </div>
       </header>
+        <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
+            <h1 className="text-6xl font-bold mt-0 mb-6">About</h1>
+            <h3 className="text-3xl font-bold mb-8">Subeading</h3>
+        </div>
     </div>
   )
 }
