@@ -7,7 +7,9 @@ import CardSection from '../components/Card/CardSection'
 import CardSubtitle from '../components/Card/CardSubtitle'
 import CardText from '../components/Card/CardText'
 import CardTitle from '../components/Card/CardTitle'
+import PromoYearBackground from '../components/PromoYearBackground'
 import PromoYearText from '../components/PromoYearText'
+import Card_UN from '../components/Card/Texts/Card_Unshakeable'
 
 export default function Home() {
   return (
@@ -42,12 +44,17 @@ export default function Home() {
             </div>
           </div>
         </nav>
-        <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
-            <h1 className="text-6xl font-bold mt-0 mb-6">Read</h1>
-        </div>
-        <PromoYearText>Pearls of Fate - 2021/2022</PromoYearText>
+      </header>
+    <div className="text-center bg-gray-300 text-gray-800 py-20 px-6">
+        <h1 className="text-6xl font-bold mt-0 mb-6">Read</h1>
+    </div>
+        <PromoYearBackground>
+            <PromoYearText>Perls of Fate - 2021/2022</PromoYearText>
+        </PromoYearBackground>
+        
         <CardSection>
             <Card>
+                <Card_UN>
                 <br></br>
                 <CardTitle>
                   Unshakeable
@@ -57,7 +64,9 @@ export default function Home() {
                 <CardText>
                     “No one is useless in this world who lightens the burdens of another.” Indeed, since her mother's death, she dedicated her life to this fight against unfairness and helping people to improve their living conditions. But will her body follow her ambitions? Or is everything impossible?
                 </CardText>
+                <br></br>
                 <CardButton href="/"/>
+                </Card_UN>
             </Card>
             <Card>
                 <br></br>
@@ -355,7 +364,6 @@ export default function Home() {
                 <CardButton href="/"/>
             </Card>
         </CardSection>
-      </header>
     </div>
   )
 }

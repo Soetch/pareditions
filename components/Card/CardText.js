@@ -6,7 +6,7 @@
 export default function CardText({children}) {
     return (
         <>
-            <p className='mt-2 ml-6 mr-6 text-justify'>
+            <p className='box-border bg-white rounded-xl w-86 mt-2 ml-5 mr-5 italic text-center bg-opacity-70'>
                 <main>{children}</main>
             </p>
         </>

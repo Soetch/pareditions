@@ -5,7 +5,12 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "perles": "url('/images/perles.png')",
+        "unshakeable": "url('/images/unshakeable.png')",
+      }
+    },
   },
   plugins: [],
 }
