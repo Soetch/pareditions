@@ -1,3 +1,8 @@
+/**
+ * Creates a new card that takes twice the room for one.
+ * @param  {children} children The code you'll put in there.
+ */
+
 export default function CardTwo({children}) {
     return (
         <>

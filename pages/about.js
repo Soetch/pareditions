@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unknown-property */
 import Link from 'next/link'
-import CardSectionOne from '../components/Card/CardSectionOne'
+import CardSection from '../components/Card/CardSection'
 import CardTwo from '../components/Card/CardTwo'
 import CardButton from '../components/Card/CardButton'
 
@@ -41,11 +41,11 @@ export default function Home() {
         <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
             <h1 className="text-6xl font-bold mt-0 mb-6">About</h1>
         </div>
-        <CardSectionOne>
+        <CardSection>
             <CardTwo>
 
             </CardTwo>
-        </CardSectionOne>
+        </CardSection>
     </div>
   )
 }

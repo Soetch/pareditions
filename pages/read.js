@@ -2,9 +2,10 @@
 import Link from 'next/link'
 import Card from '../components/Card/Card'
 import CardButton from '../components/Card/CardButton'
-import CardSectionTwo from '../components/Card/CardSectionTwo'
+import CardSection from '../components/Card/CardSection'
 import CardText from '../components/Card/CardText'
 import CardTitle from '../components/Card/CardTitle'
+import PromoYearText from '../components/PromoYearText'
 
 export default function Home() {
   return (
@@ -42,7 +43,8 @@ export default function Home() {
         <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
             <h1 className="text-6xl font-bold mt-0 mb-6">Read</h1>
         </div>
-        <CardSectionTwo>
+        <PromoYearText>2021/2022</PromoYearText>
+        <CardSection>
             <Card>
                 <CardTitle>Title</CardTitle>
                 <CardText>
@@ -71,7 +73,21 @@ export default function Home() {
                 </CardText>
                 <CardButton href="/"/>
             </Card>
-        </CardSectionTwo>
+            <Card>
+                <CardTitle>Title</CardTitle>
+                <CardText>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </CardText>
+                <CardButton href="/"/>
+            </Card>
+            <Card>
+                <CardTitle>Title</CardTitle>
+                <CardText>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </CardText>
+                <CardButton href="/"/>
+            </Card>
+        </CardSection>
       </header>
     </div>
   )

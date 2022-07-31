@@ -1,3 +1,8 @@
+/**
+ * Creates a text zone in a Card.
+ * @param  {children} children The text.
+ */
+
 export default function CardText({children}) {
     return (
         <>

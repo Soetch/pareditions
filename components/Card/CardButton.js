@@ -1,5 +1,10 @@
 import Link from "next/link"
 
+/**
+ * Creates a new CardButton.
+ * @param  {String} href The link towards your page.
+ */
+
 export default function CardButton({href}) {
     return (
         <>

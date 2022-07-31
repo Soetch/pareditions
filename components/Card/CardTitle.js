@@ -1,3 +1,8 @@
+/**
+ * Creates a Title for a Card.
+ * @param  {children} children The title.
+ */
+
 export default function CardTitle({children}) {
     return (
         <>
