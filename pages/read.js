@@ -9,7 +9,8 @@ import CardText from '../components/Card/CardText'
 import CardTitle from '../components/Card/CardTitle'
 import PromoYearBackground from '../components/PromoYearBackground'
 import PromoYearText from '../components/PromoYearText'
-import Card_UN from '../components/Card/Texts/Card_Unshakeable'
+import { Card_UN, Card_LR, Card_IKEA, Card_Seth, Card_Devil, Card_Madison, Card_Wood, Card_Who, Card_Lower, Card_Lucky } from '../components/Card/TextsMinia'
+import TitleContainer from '../components/Card/TitleContainer'
 
 export default function Home() {
   return (
@@ -55,138 +56,157 @@ export default function Home() {
         <CardSection>
             <Card>
                 <Card_UN>
-                <br></br>
-                <CardTitle>
-                  Unshakeable
-                  <CardSubtitle>Mariam Bourma Ali</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <CardText>
-                    “No one is useless in this world who lightens the burdens of another.” Indeed, since her mother's death, she dedicated her life to this fight against unfairness and helping people to improve their living conditions. But will her body follow her ambitions? Or is everything impossible?
-                </CardText>
-                <br></br>
-                <CardButton href="/"/>
+                    <br></br>
+                    <TitleContainer>
+                    <CardTitle>
+                        Unshakeable
+                        <CardSubtitle>Mariam Bourma Ali</CardSubtitle>
+                    </CardTitle>
+                    </TitleContainer>
+                    <br></br>
+                    <CardText>
+                        “No one is useless in this world who lightens the burdens of another.” Indeed, since her mother's death, she dedicated her life to this fight against unfairness and helping people to improve their living conditions. But will her body follow her ambitions? Or is everything impossible?
+                    </CardText>
+                    <br></br>
+                    <CardButton href="/"/>
                 </Card_UN>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    Low-ranking souls
-                    <CardSubtitle>Kadiatou Sylla</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <br></br>
-                <br></br>
-                <CardText>
-                    Sometimes I wonder if I was somehow cursed by a higher being for my sins in my past lives.
-                </CardText>
-                <br></br>
-                <br></br>
-                <br></br>
-                <CardButton href="/"/>
+                <Card_LR>
+                    <br></br>
+                    <CardTitle>
+                        Low-ranking souls
+                        <CardSubtitle>Kadiatou Sylla</CardSubtitle>
+                    </CardTitle>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <CardText>
+                        Sometimes I wonder if I was somehow cursed by a higher being for my sins in my past lives.
+                    </CardText>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <CardButton href="/"/>
+                </Card_LR>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    IKEA mania
-                    <CardSubtitle>Anaïs Couapel</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <CardText>
-                    A man, an addiction. To a girl or to a vacuum cleaner? This is the story of a man who can’t sleep if he hasn’t bought everything he can afford from IKEA, unless he falls in love. Is the love of his life  the solution to all his problems? Loving, burning and killing, that’s the way he handled things.
-                </CardText>
-                <CardButton href="/"/>
+                <Card_IKEA>
+                    <br></br>
+                    <CardTitle>
+                        IKEA mania
+                        <CardSubtitle>Anaïs Couapel</CardSubtitle>
+                    </CardTitle>
+                    <br></br>
+                    <CardText>
+                        A man, an addiction. To a girl or to a vacuum cleaner? This is the story of a man who can’t sleep if he hasn’t bought everything he can afford from IKEA, unless he falls in love. Is the love of his life  the solution to all his problems? Loving, burning and killing, that’s the way he handled things.
+                    </CardText>
+                    <CardButton href="/"/>
+                </Card_IKEA>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    Seth of Santo Padre
-                    <CardSubtitle>Jocelyn Arnold</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <CardText>
-                    This story depicts the life of an orphan that people called Seth "Enciado". He was born in the US, he had a typical life until the age of three and his life changed drastically. He was not raised to be a random guy, but his destiny seems to already be sealed. Will he ward off the curse?
-                </CardText>
-                <CardButton href="/"/>
+                <Card_Seth>
+                    <br></br>
+                    <CardTitle>
+                        Seth of Santo Padre
+                        <CardSubtitle>Jocelyn Arnold</CardSubtitle>
+                    </CardTitle>
+                    <br></br>
+                    <CardText>
+                        This story depicts the life of an orphan that people called Seth "Enciado". He was born in the US, he had a typical life until the age of three and his life changed drastically. He was not raised to be a random guy, but his destiny seems to already be sealed. Will he ward off the curse?
+                    </CardText>
+                    <CardButton href="/"/>
+                </Card_Seth>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    The devil is in the details
-                    <CardSubtitle>Corto Laidet</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <CardText>
-                    Michael has been living a peaceful and robotic routine, enjoying every moment. His life became eventful after the meeting of a mysterious girl… She seemed to be like an angel for him, but maybe she was the devil in disguise. What vices will the young man discover?
-                </CardText>
-                <CardButton href="/"/>
+                <Card_Devil>
+                    <br></br>
+                    <CardTitle>
+                        The devil is in the details
+                        <CardSubtitle>Corto Laidet</CardSubtitle>
+                    </CardTitle>
+                    <br></br>
+                    <CardText>
+                        Michael has been living a peaceful and robotic routine, enjoying every moment. His life became eventful after the meeting of a mysterious girl… She seemed to be like an angel for him, but maybe she was the devil in disguise. What vices will the young man discover?
+                    </CardText>
+                    <CardButton href="/"/>
+                </Card_Devil>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    Madison
-                    <CardSubtitle>Lou-Ann Onillon</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <CardText>
-                A not so perfect life. An unexpected solution. An unresolved case. Untold confessions. Repressed reality. Unwanted visions. Awakened trauma. All these words, tightly connected, will move Madison and lead her to the unnerving truth. Will she finally admit and accept it?
-                </CardText>
-                <br></br>
-                <CardButton href="/"/>
+                <Card_Madison>
+                    <br></br>
+                    <CardTitle>
+                        Madison
+                        <CardSubtitle>Lou-Ann Onillon</CardSubtitle>
+                    </CardTitle>
+                    <br></br>
+                    <CardText>
+                        A not so perfect life. An unexpected solution. An unresolved case. Untold confessions. Repressed reality. Unwanted visions. Awakened trauma. All these words, tightly connected, will move Madison and lead her to the unnerving truth. Will she finally admit and accept it?
+                    </CardText>
+                    <br></br>
+                    <CardButton href="/"/>
+                </Card_Madison>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    The wood
-                    <CardSubtitle>Eloïse Prince</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <br></br>
-                <CardText>
-                    This is the story of a girl named Anastatia whose life will completely change in just one week. The discovery of family secrets following national events in Russia will put her in a messy situation. How will she manage this?
-                </CardText>
-                <br></br>
-                <CardButton href="/"/>
+                <Card_Wood>
+                    <br></br>
+                    <CardTitle>
+                        The wood
+                        <CardSubtitle>Eloïse Prince</CardSubtitle>
+                    </CardTitle>
+                    <br></br>
+                    <br></br>
+                    <CardText>
+                        This is the story of a girl named Anastatia whose life will completely change in just one week. The discovery of family secrets following national events in Russia will put her in a messy situation. How will she manage this?
+                    </CardText>
+                    <br></br>
+                    <CardButton href="/"/>
+                </Card_Wood>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    Who I realy am
+                <Card_Who>
+                    <br></br>
+                    <CardTitle>
+                        Who I really am
+                    </CardTitle>
                     <CardSubtitle>Dylan Gandon</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <CardText>
-                    Jacob, this clever boy who has just moved to Cleveland, just got back to school after the summer holidays. His intention is to have a clear shift in his life, by making friends for instance. In this new life, a mysterious woman will take over Jacob’s life. What will happen between these two ?
-                </CardText>
-                <CardButton href="/"/>
+                    <br></br>
+                    <CardText>
+                        Jacob, this clever boy who has just moved to Cleveland, just got back to school after the summer holidays. His intention is to have a clear shift in his life, by making friends for instance. In this new life, a mysterious woman will take over Jacob’s life. What will happen between these two ?
+                    </CardText>
+                    <CardButton href="/"/>
+                </Card_Who>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    Don't lower your arms
-                    <CardSubtitle>Jade Lenain</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <br></br>
-                <CardText>
-                    Guns are a major issue in the United States. Giving up is not part of their vocabulary. TV shows you the pretty part of this country. Here is the naked truth
-                </CardText>
-                <br></br>
-                <br></br>
-                <CardButton href="/"/>
+                <Card_Lower>
+                    <br></br>
+                    <CardTitle>
+                        Don't lower your arms
+                    </CardTitle>
+                    <br></br>
+                    <br></br>
+                    <CardText>
+                        Guns are a major issue in the United States. Giving up is not part of their vocabulary. TV shows you the pretty part of this country. Here is the naked truth
+                    </CardText>
+                    <br></br>
+                    <br></br>
+                    <CardButton href="/"/>
+                </Card_Lower>
             </Card>
             <Card>
-                <br></br>
-                <CardTitle>
-                    Lucky day
-                    <CardSubtitle>Killian Gaye</CardSubtitle>
-                </CardTitle>
-                <br></br>
-                <CardText>
-                    Everybody needs a bit of luck in their lives, but some are fighting that luck because luck can not always be on your side. In fact so far Mark Random has been living a clearly meaningless life but at some point, that bad luck is going to switch, but switch into what ?
-                </CardText>
-                <br></br>
-                <CardButton href="/"/>
+                <Card_Lucky>
+                    <br></br>
+                    <CardTitle>
+                        Lucky day
+                        <CardSubtitle>Killian Gaye</CardSubtitle>
+                    </CardTitle>
+                    <br></br>
+                    <CardText>
+                        Everybody needs a bit of luck in their lives, but some are fighting that luck because luck can not always be on your side. In fact so far Mark Random has been living a clearly meaningless life but at some point, that bad luck is going to switch, but switch into what ?
+                    </CardText>
+                    <br></br>
+                    <CardButton href="/"/>
+                </Card_Lucky>
             </Card>
             <Card>
                 <br></br>
