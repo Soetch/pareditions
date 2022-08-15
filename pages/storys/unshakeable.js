@@ -113,10 +113,10 @@ export default function Home() {
                     I always figured out she was fierce and cold. The media had given me that impression.
                     <br></br>
                     <br></br>
-                    After our conversation, we went to the court as i'm a law student. But something happened that
+                    After our conversation, we went to the court as i&apos;m a law student. But something happened that
                     made my admiration for Azra even more daunting. A lawyer accused a young lady of corruption but
                     in that case it was clear that it was her boss who had used all his contacts to send her away to
-                    prison. And at that moment Azra bravely stood up and as always she grasped everyone's attention
+                    prison. And at that moment Azra bravely stood up and as always she grasped everyone&apos;s attention
                     and said « Because of her skin colour, you want to send this lady to jail. Zealots! I’m pretty sure
                     there are witnesses who could make it clear she is completely innocent. »
                     <br></br>
@@ -151,7 +151,7 @@ export default function Home() {
                     <br></br>
                     The day of “Clash with politicians“ came. I knew everything I had to tell them but my ideas are
                     scattered. People were really nice to me and lead me to the studio. Mr Harvey began with a
-                    delightful reference to Obama's Inauguration speech back in 2009. Now that was a really
+                    delightful reference to Obama&apos;s Inauguration speech back in 2009. Now that was a really
                     interesting speech. I should have listened to it entirely.
                     <br></br>
                     <br></br>
@@ -233,7 +233,7 @@ export default function Home() {
                         my body letting go until everything went black.
                         <br></br>
                         <br></br>
-                        I woke up in a place that was totally unknown to me. I saw people that I didn't know. The doctor
+                        I woke up in a place that was totally unknown to me. I saw people that I didn&apos;t know. The doctor
                         told me that I had been in a coma for 5 months and that I was now tetraplegic so everything I had
                         dreamed about... had never happened.
                     </div>
