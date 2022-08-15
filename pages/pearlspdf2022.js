@@ -34,9 +34,9 @@ export default function Home() {
             </div>
           </div>
         </nav>
-        <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
-          <h1 className="text-6xl font-bold mt-0 mb-6">Heading</h1>
-          <h3 className="text-3xl font-bold mb-8">Subeading</h3>
+        <div className="text-center bg-perles text-gray-800 py-20 px-6">
+          <h1 className="text-6xl font-bold mt-0 mb-6">Pearls of Fate</h1>
+          <h3 className="text-3xl font-bold mb-8">2021 - 2022</h3>
         </div>
       </header>
     </div>
