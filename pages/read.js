@@ -11,11 +11,11 @@ import PromoYearBackground from '../components/PromoYearBackground'
 import PromoYearText from '../components/PromoYearText'
 import { Card_UN, Card_LR, Card_IKEA, Card_Seth, Card_Devil, Card_Madison, Card_Wood, Card_Who, Card_Lower, Card_Lucky, Card_Fear, Card_Chase, Card_Bird, Card_Against, Card_Dew, Card_Muscles, Card_Unsafe, Card_Device, Card_School, Card_Forgotten, Card_Brightness, Card_Relife, Card_Nightmare } from '../components/Card/TextsMinia'
 import TitleContainer from '../components/Card/TitleContainer'
-import PromoYearButton from '../components/PromoYearButton'
+import PromoYearButton2022 from '../components/PromoYearButton'
 
 export default function Home() {
   return (
-    <div className="header">
+    <div className="header mb-32">
       <header>
         <nav className="navbar navbar-expand-lg shadow-md py-2 bg-white relative flex items-center w-full justify-between">
           <div className="px-6 w-full flex flex-wrap items-center justify-between">
@@ -53,7 +53,7 @@ export default function Home() {
         <PromoYearBackground>
             <PromoYearText>Perls of Fate - 2021/2022</PromoYearText>
             <br></br>
-            <PromoYearButton href="pearlspdf2022"></PromoYearButton>
+            <PromoYearButton2022 href="https://drive.google.com/file/d/1Ple457a8Dfd9r8CYJ-SYCrHGel3UPKMd/view?usp=sharing"/>
         </PromoYearBackground>
         
         <CardSection>
@@ -71,7 +71,7 @@ export default function Home() {
                         “No one is useless in this world who lightens the burdens of another.” Indeed, since her mother's death, she dedicated her life to this fight against unfairness and helping people to improve their living conditions. But will her body follow her ambitions? Or is everything impossible?
                     </CardText>
                     <br></br>
-                    <CardButton href="/"/>
+                    <CardButton href="storys/unshakeable"/>
                 </Card_UN>
             </Card>
             <Card>
