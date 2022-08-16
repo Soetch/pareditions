@@ -47,11 +47,8 @@ export default function Home() {
           </div>
         </nav>
       </header>
-    <div className="text-center bg-gray-300 text-gray-800 py-20 px-6">
-        <h1 className="text-6xl font-bold mt-0 mb-6">Read</h1>
-    </div>
         <PromoYearBackground>
-            <PromoYearText>Perls of Fate - 2021/2022</PromoYearText>
+            <PromoYearText>Pearls of Fate - 2021/2022</PromoYearText>
             <br></br>
             <PromoYearButton2022 href="https://drive.google.com/file/d/1Ple457a8Dfd9r8CYJ-SYCrHGel3UPKMd/view?usp=sharing"/>
         </PromoYearBackground>

@@ -34,17 +34,17 @@ export default function Home() {
             </div>
           </div>
         </nav>
-        <div className="text-center bg-unshakeable text-gray-800 py-20 px-6">
+        <div className="text-center bg-unshakeablebig text-gray-800 py-72 px-8">
             <div className="box-border bg-white rounded-3xl shadow-2xl py-4 bg-opacity-60">
-                <h1 className="text-6xl font-bold mb-1">Unshakeable</h1>
-                <h2 className="text-4xl font-bold ">Mariam Bourma Ali</h2>
-                <h2 className="text-2xl font-bold">Pearls of Fate : 2021/2022</h2>
+                <h1 className="text-4xl font-bold mb-1">Unshakeable</h1>
+                <h2 className="text-2xl font-bold ">Mariam Bourma Ali</h2>
+                <h2 className="text-lg font-bold">Pearls of Fate : 2021/2022</h2>
             </div>
         </div>
 
-        <div className="text-center text-lg lg:ml-96 lg:mr-96 md:ml-64 md:mr-64 sm:ml-32 sm:mr-32 mb-32 ">
-            <div>
-                <div className="mt-2 font-bold text-xl underline">
+        <div className="text-justify text-xl lg:ml-48 lg:mr-48 md:ml-32 md:mr-32 sm:ml-16 sm:mr-16 mb-32">
+            <div className="ml-12 mr-12">
+                <div className="mt-2 font-bold text-center">
                     1. “Great expectations”
                 </div>
                 <br></br>
@@ -54,7 +54,7 @@ export default function Home() {
                     It could be difficult for me to achieve everything I had planned and dreamed of.
                 </div>
                 <br></br>
-                <a className="font-bold">* * *</a>
+                <a className="font-bold grid place-content-center">* * *</a>
                 <br></br>
                 <br></br>
                 <div>
@@ -73,7 +73,7 @@ export default function Home() {
                     Days passed and Rosalind was eventually elected.
                 </div>
                 <br></br>
-                <a className="font-bold">* * *</a>
+                <a className="font-bold grid place-content-center">* * *</a>
                 <br></br>
                 <br></br>
                 <div>
@@ -91,8 +91,8 @@ export default function Home() {
             </div>
             <br></br>
             <br></br>
-            <div>
-                <div className="mt-2 font-bold text-xl underline">
+            <div className="ml-12 mr-12">
+                <div className="mt-2 font-bold text-center">
                     2. “Guilty”
                 </div>
                 <br></br>
@@ -136,8 +136,8 @@ export default function Home() {
             </div>
             <br></br>
             <br></br>
-            <div>
-                <div className="mt-2 font-bold text-xl underline">
+            <div className="ml-12 mr-12">
+                <div className="mt-2 font-bold text-center">
                     3. “A poem”
                 </div>
                 <br></br>
@@ -182,7 +182,7 @@ export default function Home() {
                     written on it:
                     <br></br>
                     <br></br>
-                    <div className="font-bold italic">
+                    <div className="font-bold italic text-center">
                         “When people fake their real face,
                         <br></br>
                         it allows them to manipulate
@@ -198,8 +198,8 @@ export default function Home() {
                 </div>
                 <br></br>
                 <br></br>
-                <div>
-                    <div className="mt-2 font-bold text-xl underline">
+                <div className="ml-12 mr-12">
+                    <div className="mt-2 font-bold text-center">
                         4. “Let go”
                     </div>
                     <br></br>

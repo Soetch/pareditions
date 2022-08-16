@@ -9,6 +9,7 @@ module.exports = {
       backgroundImage: {
         "perles": "url('/images/perles.png')",
         "unshakeable": "url('/images/unshakeable.png')",
+        "unshakeablebig": "url('/images/unshakeableBIG.png')",
         "low-ranking": "url('/images/low-ranking.png')",
         "ikea": "url('/images/ikea.png')",
         "seth": "url('/images/seth.png')",
