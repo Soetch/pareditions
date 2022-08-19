@@ -68,7 +68,7 @@ export default function Home() {
                         “No one is useless in this world who lightens the burdens of another.” Indeed, since her mother's death, she dedicated her life to this fight against unfairness and helping people to improve their living conditions. But will her body follow her ambitions? Or is everything impossible?
                     </CardText>
                     <br></br>
-                    <CardButton href="storys/unshakeable"/>
+                    <CardButton href="https://drive.google.com/file/d/11p2rik_Y_8z_bFtBNMH1bNgc_39PDYpn/view?usp=sharing"/>
                 </Card_UN>
             </Card>
             <Card>
@@ -105,7 +105,7 @@ export default function Home() {
                     <CardText>
                         A man, an addiction. To a girl or to a vacuum cleaner? This is the story of a man who can’t sleep if he hasn’t bought everything he can afford from IKEA, unless he falls in love. Is the love of his life  the solution to all his problems? Loving, burning and killing, that’s the way he handled things.
                     </CardText>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/1CuIrRmWyuZYgI-S1sscv5Jlkw-KRhgr9/view?usp=sharing"/>
                 </Card_IKEA>
             </Card>
             <Card>
