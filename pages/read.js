@@ -89,7 +89,7 @@ export default function Home() {
                     <br></br>
                     <br></br>
                     <br></br>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/1CuIrRmWyuZYgI-S1sscv5Jlkw-KRhgr9/view?usp=sharing"/>
                 </Card_LR>
             </Card>
             <Card>
@@ -121,7 +121,7 @@ export default function Home() {
                     <CardText>
                         This story depicts the life of an orphan that people called Seth "Enciado". He was born in the US, he had a typical life until the age of three and his life changed drastically. He was not raised to be a random guy, but his destiny seems to already be sealed. Will he ward off the curse?
                     </CardText>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/1wTPKYPQ9BqvBVIz7HfTsThJt-0U4uJ06/view?usp=sharing"/>
                 </Card_Seth>
             </Card>
             <Card>
@@ -137,7 +137,7 @@ export default function Home() {
                     <CardText>
                         Michael has been living a peaceful and robotic routine, enjoying every moment. His life became eventful after the meeting of a mysterious girl… She seemed to be like an angel for him, but maybe she was the devil in disguise. What vices will the young man discover?
                     </CardText>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/1wgZM_0C1ekz7JKri0zRLIH7E_EjWYKwc/view?usp=sharing"/>
                 </Card_Devil>
             </Card>
             <Card>
@@ -154,7 +154,7 @@ export default function Home() {
                         A not so perfect life. An unexpected solution. An unresolved case. Untold confessions. Repressed reality. Unwanted visions. Awakened trauma. All these words, tightly connected, will move Madison and lead her to the unnerving truth. Will she finally admit and accept it?
                     </CardText>
                     <br></br>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/19mtkZC1pgAlXW5dU1kilr8qlMqwRZloi/view?usp=sharing"/>
                 </Card_Madison>
             </Card>
             <Card>
@@ -172,7 +172,7 @@ export default function Home() {
                         This is the story of a girl named Anastatia whose life will completely change in just one week. The discovery of family secrets following national events in Russia will put her in a messy situation. How will she manage this?
                     </CardText>
                     <br></br>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/1Z43ZsQN3gsIYhWfdMiwpjdvzLd2t2Z3h/view?usp=sharing"/>
                 </Card_Wood>
             </Card>
             <Card>
@@ -188,7 +188,7 @@ export default function Home() {
                     <CardText>
                         Jacob, this clever boy who has just moved to Cleveland, just got back to school after the summer holidays. His intention is to have a clear shift in his life, by making friends for instance. In this new life, a mysterious woman will take over Jacob’s life. What will happen between these two ?
                     </CardText>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/1oX5f-EA9SZ0DA8a7mGBNPbQu0nUDJYsV/view?usp=sharing"/>
                 </Card_Who>
             </Card>
             <Card>
@@ -207,7 +207,7 @@ export default function Home() {
                     </CardText>
                     <br></br>
                     <br></br>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/16ep6LEsZrRAEBmYKi_gp5bggc2oIBCGU/view?usp=sharing"/>
                 </Card_Lower>
             </Card>
             <Card>
@@ -224,7 +224,7 @@ export default function Home() {
                         Everybody needs a bit of luck in their lives, but some are fighting that luck because luck can not always be on your side. In fact so far Mark Random has been living a clearly meaningless life but at some point, that bad luck is going to switch, but switch into what ?
                     </CardText>
                     <br></br>
-                    <CardButton href="/"/>
+                    <CardButton href="https://drive.google.com/file/d/1pD7Dt1Ga2aD9poxybMbrSoVWpIpwMYvk/view?usp=sharing"/>
                 </Card_Lucky>
             </Card>
             <Card>
@@ -240,7 +240,7 @@ export default function Home() {
                 <CardText>
                 Since her childhood, Tess Chatterbox has been afraid of talking in public, of people noticing her. But her life is about to change when she has to audition for the main character in a musical. Will she be able to challenge her greatest fear ?
                 </CardText>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1VAUqaGWX6kGvPxgP0lGhMg9CkjM7ufBz/view?usp=sharing"/>
                 </Card_Fear>
             </Card>
             <Card>
@@ -257,7 +257,7 @@ export default function Home() {
                 Hazy Slumber, 16 years old, was living an average teenage life: still living at her parents’, going to school and hanging out. One day, she met a ghostly teenage boy around her age who reminded her of one who had appeared in a nightmare, and who would then keep showing up at unexpected times. Who is he? Why does he keep showing up?
 
                 </CardText>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1r3e8eL8gxrtWx1BMmKJrhTLy7AYb2JNd/view?usp=sharing"/>
                 </Card_Chase>
             </Card>
             <Card>
@@ -275,7 +275,7 @@ export default function Home() {
                     If your world had turned upside down and everyone close to you had suddenly disappeared, would you finally realize what life had given you? Let’s see about John… a teenager just like any other, living in Boston.
                 </CardText>
                 <br></br>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1FYd6aCCxucAV3UhVDGndqT_1_K8O-8bi/view?usp=sharing"/>
                 </Card_Bird>
             </Card>
             <Card>
@@ -293,7 +293,7 @@ export default function Home() {
                     Alia is a fearless young woman who likes to stand up for everyone. One day something is going to happen to her and is going to change her vision of life. But is her reality the common reality ? That’s what you’re about to figure out.
                 </CardText>
                 <br></br>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1crXdJW-1uNT7XvUi8ItmTkg4akOJlvpW/view?usp=sharing"/>
                 </Card_Against>
             </Card>
             <Card>
@@ -310,7 +310,7 @@ export default function Home() {
                 I had great expectations about my father’s studio. I loved the fact that he had hidden a magic world in there. Now I’m here, in front of one of his paintings, one that represents a garden, with a little wooden bridge and a river.
                 </CardText>
                 <br></br>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1CAjTczX-ebCoYqKrkNZErpG10dTpRnko/view?usp=sharing"/>
                 </Card_Dew>
             </Card>
             <Card>
@@ -326,7 +326,7 @@ export default function Home() {
                 <CardText>
                     “Every good day starts with a protein shaker”. That's what Richard Luckman thought. He was the luckiest and most muscular man in the world (according to himself), but one day his daily life changed forever. Follow the crazy adventures of Richard and see him ask himself this defining question: “Was I really doing the right thing?”
                 </CardText>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1LI3d42hozua3eh0cAqRPlFjno4w14LFb/view?usp=sharing"/>
                 </Card_Muscles>
             </Card>
             <Card>
@@ -343,7 +343,7 @@ export default function Home() {
                     He had always loved books. Getting lost in imaginary worlds was his favorite thing. But what if one day, while he was finally enjoying the trip of his dreams, he had to actually dive into the hazardous universe of his favorite book?
                 </CardText>
                 <br></br>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1hkfEfRyyCXmBG0LCCPTKuatLeYM_Gw1x/view?usp=sharing"/>
                 </Card_Unsafe>
             </Card>
             <Card>
@@ -359,7 +359,7 @@ export default function Home() {
                 <CardText>
                     Mike Device, an orphan, just got selected to attend the university of his dreams in Indianapolis. Such as Techpo, his new friend from the university. He didn’t know how to deal with him at first but they ended up becoming really close. Yet he acted weird as if he had something to achieve, as if their meeting had been planned from the start.
                 </CardText>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/10pFrO7Sd5xjGGCzUY3QINNvy8FhldwZ3/view?usp=sharing"/>
                 </Card_Device>
             </Card>
             <Card>
@@ -375,7 +375,7 @@ export default function Home() {
                 <CardText>
                     Agatha Strange is a 15 year old teenager from Philadelphia. She is used to exploring new places with her two friends Lewis and William. One day, they will find themselves in an old abandoned Catholic School named “St Nicolas”. They will meet a mysterious character who will ask them to accomplish 3 missions.
                 </CardText>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1Btf58DIBvcOSV4m-_AYYShs-G2C2_D8U/view?usp=sharing"/>
                 </Card_School>
             </Card>
             <Card>
@@ -391,7 +391,7 @@ export default function Home() {
                 <CardText>
                     In a small town, Sierra, a young girl, was leading a meaningless life. She is going to see her life being turned upside down by many events. Sierra will see herself helping many needy people, but are they really here? With us? The appearance of a ghost, a secret mission. Will she manage to endure her new life? 
                 </CardText>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1UaGDZ8WpwRlD24ivs1-ni7t75VB7cIXX/view?usp=sharing"/>
                 </Card_Forgotten>
             </Card>
             <Card>
@@ -409,7 +409,7 @@ export default function Home() {
                     The images came and went all the time, without a single moment of relief, she had the feeling that her brain couldn’t breathe, that she would have to deal with with those horrific flashbacks for the rest of her life
                 </CardText>
                 <br></br>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/16KTuZCatZ8t7ElhQu9-bTlg3PIwyJb-X/view?usp=sharing"/>
                 </Card_Brightness>
             </Card>
             <Card>
@@ -427,7 +427,7 @@ export default function Home() {
                 </CardText>
                 <br></br>
                 <br></br>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1AzWsC01nWvCFM3xjjo51KUKNt_bxvb0n/view?usp=sharing"/>
                 </Card_Relife>
             </Card>
             <Card>
@@ -445,7 +445,7 @@ export default function Home() {
                 </CardText>
                 <br></br>
                 <br></br>
-                <CardButton href="/"/>
+                <CardButton href="https://drive.google.com/file/d/1GhouKVla_UfbvXDe5HzHbrg3qwqYdOuO/view?usp=sharing"/>
                 </Card_Nightmare>
             </Card>
         </CardSection>
