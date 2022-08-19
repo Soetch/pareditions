@@ -105,7 +105,7 @@ export default function Home() {
                     <CardText>
                         A man, an addiction. To a girl or to a vacuum cleaner? This is the story of a man who can’t sleep if he hasn’t bought everything he can afford from IKEA, unless he falls in love. Is the love of his life  the solution to all his problems? Loving, burning and killing, that’s the way he handled things.
                     </CardText>
-                    <CardButton href="https://drive.google.com/file/d/1CuIrRmWyuZYgI-S1sscv5Jlkw-KRhgr9/view?usp=sharing"/>
+                    <CardButton href="https://drive.google.com/file/d/1wTPKYPQ9BqvBVIz7HfTsThJt-0U4uJ06/view?usp=sharing"/>
                 </Card_IKEA>
             </Card>
             <Card>
@@ -121,7 +121,7 @@ export default function Home() {
                     <CardText>
                         This story depicts the life of an orphan that people called Seth "Enciado". He was born in the US, he had a typical life until the age of three and his life changed drastically. He was not raised to be a random guy, but his destiny seems to already be sealed. Will he ward off the curse?
                     </CardText>
-                    <CardButton href="https://drive.google.com/file/d/1wTPKYPQ9BqvBVIz7HfTsThJt-0U4uJ06/view?usp=sharing"/>
+                    <CardButton href="https://drive.google.com/file/d/1ONWPANgFGMWlJElzLMlTT0ncnxh5ScVV/view?usp=sharing"/>
                 </Card_Seth>
             </Card>
             <Card>
