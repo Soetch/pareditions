@@ -9,7 +9,7 @@ export default function Home() {
           <div className="px-6 w-full flex flex-wrap items-center justify-between">
             <div className="items-center">
               <Link href="/">
-                  <a className='font-bold text-xl'>TextFolio</a>
+                  <a className='font-bold text-xl'>Paréditions</a>
               </Link>
             </div>
             <div className='items-center grid gap-5 grid-cols-2'>
@@ -35,8 +35,8 @@ export default function Home() {
           </div>
         </nav>
         <div className="text-center bg-gray-100 text-gray-800 py-20 px-6">
-          <h1 className="text-6xl font-bold mt-0 mb-6">Heading</h1>
-          <h3 className="text-3xl font-bold mb-8">Subeading</h3>
+          <h1 className="text-6xl font-bold mt-0 mb-6">Paréditions</h1>
+          <h3 className="text-3xl font-bold mb-8"></h3>
         </div>
       </header>
     </div>
